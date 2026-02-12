@@ -1,0 +1,44 @@
+{
+  "personal": {
+    "name": "Teste Text",
+    "email": "teste@teste.com.br",
+    "phone": "(13) 00000-1000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "documet": "12345678910",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet",
+    "techs": [
+      "Cypress",
+      "JavaScript",
+      "Selenium",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Teste Text",
+    "email": "teste@teste.com.br",
+    "phone": "(13) 00000-1000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "documet": "67781904000172",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
